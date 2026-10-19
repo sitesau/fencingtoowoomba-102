@@ -1,0 +1,22 @@
+{
+  "wheel_id": 455,
+  "structure": "umbrella",
+  "slug": "fencingtoowoomba-102",
+  "project": "fencing-contractors-toowoomba-how-to-choose-8906946c6a86d462896",
+  "parent_t1_ref": "fencingtoowoomba-150",
+  "node_role": "feeder",
+  "money_target": "fencingtoowoomba.net.au",
+  "primary_kw": "fencing contractors toowoomba how to choose",
+  "intended_url": "https://sitesau.github.io/fencingtoowoomba-102/",
+  "tier": "T2",
+  "writeback_nonce": "3ea76db53f2b3291",
+  "links": [
+    {
+      "target_url": "http://fencing-contractors-toowoomba-ba454e72f3b013ba76c70d9bd39ff72c0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Fencing Contractors Toowoomba: A Practical Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
